@@ -9,3 +9,10 @@ pnpm dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## Tools Used
+
+- [zod](https://zod.dev/)
+- [Chakra UI](https://chakra-ui.com/getting-started)
+- [React Query](https://tanstack.com/query/v4/docs/overview)
+- [Formik](https://formik.org/docs/overview)
